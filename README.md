@@ -2,7 +2,7 @@
 🚀 Passionate **MERN Stack Developer** | **Next.js & Nest.js Enthusiast**  
 
 ### 👀 I’m interested in:
-- Full-stack web development (**MERN Stack & Nest.js**) | **Gen AI**  
+- Full-stack web development (**MERN Stack**) 
 - Building scalable and efficient web applications  
 
 ### 🌱 I’m currently learning:
